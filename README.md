@@ -1,2 +1,2 @@
 # xrd_analysis
-simple XRD spectrum fitting
+A simple script for fitting Gaussians to XRD spectra. Used to analyze carbon materials.
